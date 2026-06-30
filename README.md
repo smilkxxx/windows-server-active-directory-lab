@@ -72,8 +72,8 @@ Cada Unidad Organizativa contiene cinco usuarios para simular un entorno empresa
 
 ## Video
 
-(https://itlaedudo-my.sharepoint.com/:f:/g/personal/20211150_itla_edu_do/
-IgCoXaoOafZySLhejZkNLyngAaUC-Yxw6Qpc_5jpstzVfRg?e=UqyjJ3)
+https://itlaedudo-my.sharepoint.com/:f:/g/personal/20211150_itla_edu_do/
+IgCoXaoOafZySLhejZkNLyngAaUC-Yxw6Qpc_5jpstzVfRg?e=UqyjJ3
 
 ---
 
